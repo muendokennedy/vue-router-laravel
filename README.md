@@ -1,5 +1,18 @@
 ## Run the following
 
-1. npm install vue@latest vue-loader@latest
-2. npm install --save-dev @vitejs/plugin-vue
-3. npm install vue-router@4
+### Install the latest vue package
+
+```sh
+npm install vue@latest vue-loader@latest
+```
+### Install the vite vue plugin
+
+```sh
+npm install --save-dev @vitejs/plugin-vue
+```
+
+### Install the latest version of vue router
+
+```sh
+npm install vue-router@4
+```
